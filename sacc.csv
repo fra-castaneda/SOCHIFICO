@@ -1,0 +1,9 @@
+lon,lat,Fecha,Value,Deteccion,Condicion,Accion,Centro,Centro_Id,Obs,RepID
+-73.165,-41.7936,10/11/2020,800,Cultivo,Vegetativo,Pendiente,102808,Algas Tower SpA / Acuicola Caicacen SA,,0
+-73.165,-41.7936,01/04/2021,800,Cultivo,Reproductivo,Pendiente,102808,Algas Tower SpA / Acuicola Caicacen SA,,1
+-73.14829,-41.8237,10/05/21,1,Invasion,Vegetativo,Removido,NA,NA,Test,2
+-73.14829,-41.8237,10/05/21,3,Invasion,Vegetativo,Removido,NA,NA,Test,3
+-73.15927,-41.77725,,4,Invasion,Vegetativo,Removido,NA,NA,Test,4
+-73.17567,-41.77661,,5,Invasion,Vegetativo,Removido,NA,NA,Test,5
+-73.17137,-41.79082,,6,Invasion,Vegetativo,Removido,NA,NA,Test,6
+-73.1373,-41.76675,,7,Invasion,Vegetativo,Removido,NA,NA,Test,7
